@@ -1,4 +1,4 @@
-# Token-Grabber-Image-DarkStealer
+# Features
 QRCode logger
 
 Discord Login Stealer
