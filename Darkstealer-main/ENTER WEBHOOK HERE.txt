@@ -1,0 +1,1 @@
+assets=webhook('ENTER_YOUR_WEBHOOK_DRIPZZ_ON_TOP')
